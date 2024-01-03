@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "net-fi",
+    "ffi-attr",
+    "ffi-attr-impl",
+]
